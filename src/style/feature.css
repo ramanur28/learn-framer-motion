@@ -1,0 +1,16 @@
+.feature {
+  background-color: #8c031c;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  z-index: 10;
+  padding-top: 50px;
+}
+
+.content h2 {
+  color: var(--white);
+  font-size: 96px;
+  font-weight: 700;
+  text-align: center;
+  font-family: "Rametto One", sans-serif;
+}

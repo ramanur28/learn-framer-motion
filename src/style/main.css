@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Arimo:wght@700&family=Rammetto+One&display=swap");
+
+html {
+  --black: #0d0d0d;
+  --red: #8c030e;
+  --white: #d9d9d9;
+  overflow-x: hidden;
+}
+
+body {
+  background: rgb(64, 1, 13);
+  background: radial-gradient(
+    circle,
+    rgba(64, 1, 13, 1) 0%,
+    rgba(13, 13, 13, 1) 100%
+  );
+}
+
+.text {
+  font-family: "Rammetto One", sans-serif;
+}

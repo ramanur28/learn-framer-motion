@@ -1,0 +1,7 @@
+.box {
+  background-color: var(--white);
+  width: 520px;
+  height: 200px;
+  position: fixed;
+  left: 30%;
+}

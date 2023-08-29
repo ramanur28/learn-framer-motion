@@ -1,0 +1,15 @@
+.about {
+  width: 50vw;
+  padding: 25px;
+  overflow: hidden;
+  height: 300vh;
+}
+
+.about h2 {
+  font-family: "Rametto One", sans-serif;
+  text-align: left;
+  color: var(--white);
+  font-size: 96px;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
